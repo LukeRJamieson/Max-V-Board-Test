@@ -1,0 +1,6 @@
+module BoardTest(
+input clk,
+output [14:0]counter_out);
+
+endmodule
+
