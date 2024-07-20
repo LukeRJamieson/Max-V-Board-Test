@@ -1,34 +1,3 @@
 # Quartus Prime generated files
-db/
-incremental_db/
-.qws/
-.qdf/
-.qar/
-*.rpt
-*.summary
-*.done
-*.jdi
-*.sld
-*.smsg
-*.cdf
-*.html
-*.htm
-*.eqn
-*.pin
-*.sof
-*.pof
-*.svf
-*.ttf
-*.map
-*.fit.rpt
-*.sta.rpt
-*.csf
-*.quartus_shim.rpt
-*.sasm
-*.svec
-*.smsg
-*.sta.summary
-*.spd
+output_files/
 
-# Backup files
-*~
